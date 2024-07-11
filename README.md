@@ -89,10 +89,10 @@ v0.2版本 ~~更新代码后看情况修改~~
 
 ## 七、下载
 leanback-java-armeabi_v7a_0.0.8.apk   
-https://raw.gitcode.com/baidu_38752858/danmuku/assets/716  
+https://raw.gitcode.com/baidu_38752858/danmuku/assets/900  
 mobile-java-arm64_v8a_0.0.8.apk   
-https://raw.gitcode.com/baidu_38752858/danmuku/assets/715  
+https://raw.gitcode.com/baidu_38752858/danmuku/assets/902  
 leanback-java-x86_0.0.8.apk   
-https://raw.gitcode.com/baidu_38752858/danmuku/assets/714
+https://raw.gitcode.com/baidu_38752858/danmuku/assets/901  
 ## 八、鸣谢
   弹幕爱好者们
