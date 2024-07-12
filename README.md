@@ -19,6 +19,9 @@
 4. 修复影视2.4.0语法错误。
 #### 20240628：
 1. 修改集数匹配规则
+#### 20240711
+1. 弹幕文件更改为压缩包，网络访问更快
+
 ## 二、功能介绍
 ### 2.1 自定义弹幕
 1. 设置->填入自定义弹幕地址：弹幕json文件
@@ -85,13 +88,7 @@ v0.2版本 ~~更新代码后看情况修改~~
   除以上其它内容开放，
 
 ## 七、下载
-leanback-java-arm64_v8a_v0.0.8.apk   
-https://raw.gitcode.com/baidu_38752858/danmuku/assets/691    
-leanback-java-armeabi_v7a_0.0.8.apk   
-https://raw.gitcode.com/baidu_38752858/danmuku/assets/716  
-mobile-java-arm64_v8a_0.0.8.apk   
-https://raw.gitcode.com/baidu_38752858/danmuku/assets/715  
-leanback-java-x86_0.0.8.apk   
-https://raw.gitcode.com/baidu_38752858/danmuku/assets/714
+leanback-java-armeabi_v7a.apk    
+https://github.com/SingerLan/danmuku/releases 
 ## 八、鸣谢
   弹幕爱好者们
