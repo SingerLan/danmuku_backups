@@ -87,8 +87,8 @@ v0.2版本 ~~更新代码后看情况修改~~
   本人搜集、收藏B站下架视频弹幕1G以上，韩剧弹幕500M以上，如需要可联系作者（付费）。
   除以上其它内容开放，
 
-## 七、下载
-leanback-java-armeabi_v7a.apk    
-https://github.com/SingerLan/danmuku/releases 
+## 七、下载  
+https://github.com/SingerLan/danmuku/releases   
+https://www.123pan.com/s/Fx2YTd-PXJfv.html  
 ## 八、鸣谢
   弹幕爱好者们
